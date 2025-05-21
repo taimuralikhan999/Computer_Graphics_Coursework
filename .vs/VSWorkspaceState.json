@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "OutputFoldersPerTargetSystem": {
     "Local Machine": [
       "out\\build\\x64-Debug",
@@ -10,5 +11,11 @@
     "\\build"
   ],
   "SelectedNode": "\\build\\Computer_Graphics_Coursework.sln",
+=======
+  "ExpandedNodes": [
+    ""
+  ],
+  "SelectedNode": "\\glew.sln (external\\glew-1.13.0\\build\\vc12\\glew.sln)",
+>>>>>>> cf671a01a2e955abd4fc73591220b79d2cb3c596
   "PreviewInSolutionExplorer": false
 }
